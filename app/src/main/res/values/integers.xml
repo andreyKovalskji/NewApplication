@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="not_enough_coins_one_frame_duration" type="integer">150</item>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="rules_text_bg_color">#FFF</color>
+    <color name="buttons_color_bg">#FFAAAAAA</color>
+    <color name="buttons_color_stroke">@color/white</color>
+    <color name="text_bg_color">@color/black</color>
+    <color name="shop_text_color">@color/white</color>
+    <color name="rules_text_bg">@color/black</color>
+</resources>
